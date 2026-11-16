@@ -14,6 +14,8 @@ Ich setze moderne KI-Werkzeuge gezielt als Unterstützung in Entwicklung und Ler
 
 **[csbuddy.app](https://csbuddy.app)**
 
+**[re-tec24.com](https://re-tec24.com)**
+
 ## ✉️ Kontakt
 
 [GitHub](https://github.com/28niels) · [csbuddy.app](https://csbuddy.app)
