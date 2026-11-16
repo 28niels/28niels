@@ -2,51 +2,31 @@
   <img src="assets/profile-header.svg" alt="28niels – Software Developer" width="100%">
 </p>
 
-<p align="center">
-  <a href="https://csbuddy.app"><img src="https://img.shields.io/badge/Aktuelles_Projekt-csbuddy.app-2563eb?style=flat-square&labelColor=111827" alt="csbuddy.app"></a>
-  <img src="https://img.shields.io/badge/Standort-Deutschland-1f2937?style=flat-square&labelColor=111827" alt="Deutschland">
-  <img src="https://img.shields.io/badge/Sprachen-Deutsch_·_Englisch-1f2937?style=flat-square&labelColor=111827" alt="Sprachen">
-</p>
+Software-Entwickler mit Schwerpunkt auf Web-Anwendungen und Automatisierung. Ich entwickle eigene Produkte von der ersten Idee bis zum Livegang – mit nachvollziehbarem Code, klarer Struktur und sauberer Versionierung.
 
-<br>
+&nbsp;
 
-## Über mich
-
-Ich bin Software-Entwickler mit Schwerpunkt auf Web-Anwendungen und Automatisierung. Ich entwickle eigene Produkte von der ersten Idee bis zum Livegang und lege dabei Wert auf nachvollziehbaren Code, klare Strukturen und eine saubere Versionierung.
-
-Aktuell arbeite ich an [csbuddy.app](https://csbuddy.app) und vertiefe parallel mein Wissen in Systemdesign, Rust und KI.
-
-## Technologien
+### Technologien
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,lua,js,ts,nextjs,react,html,css,git,github,vscode,bash&theme=dark&perline=12">
   <img src="https://skillicons.dev/icons?i=py,lua,js,ts,nextjs,react,html,css,git,github,vscode,bash&theme=light&perline=12" alt="Python, Lua, JavaScript, TypeScript, Next.js, React, HTML, CSS, Git, GitHub, VS Code, Bash" height="48">
 </picture>
 
-## Schwerpunkte
+&nbsp;
 
-| | |
-| :-- | :-- |
-| **Web-Entwicklung** | Moderne Web-Anwendungen mit Next.js, React und TypeScript |
-| **Automatisierung** | Skripte und Werkzeuge mit Python und Lua, die wiederkehrende Abläufe vereinfachen |
-| **Produktentwicklung** | Eigenverantwortliche Umsetzung von der Idee bis zum Livegang |
-| **Qualität** | Lesbarer Code, klare Struktur und nachvollziehbare Commits mit Git |
+### Projekte
 
-## Projekte
+**[csbuddy.app](https://csbuddy.app)** – Eigenes Webprojekt in aktiver Entwicklung
 
-| Projekt | Beschreibung |
-| :-- | :-- |
-| [**csbuddy.app**](https://csbuddy.app) | Eigenes Webprojekt in aktiver Entwicklung |
+&nbsp;
 
-Weitere Repositories finden sich in den angepinnten Projekten oberhalb.
-
-## Weiterentwicklung
+### Aktuell
 
 Systemdesign · Rust · Künstliche Intelligenz
 
-## Kontakt
+&nbsp;
 
-<p>
-  <a href="https://github.com/28niels"><img src="https://img.shields.io/badge/GitHub-28niels-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://csbuddy.app"><img src="https://img.shields.io/badge/Web-csbuddy.app-2563eb?style=flat-square" alt="csbuddy.app"></a>
-</p>
+### Kontakt
+
+[GitHub](https://github.com/28niels) · [csbuddy.app](https://csbuddy.app)
