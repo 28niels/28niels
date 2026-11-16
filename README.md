@@ -13,7 +13,6 @@ Ich setze moderne KI-Werkzeuge gezielt als Unterstützung in Entwicklung und Ler
 ## 🚀 Projekte
 
 **[csbuddy.app](https://csbuddy.app)**
-Gemeinsames Webprojekt, das ich zusammen mit einem Kollegen als Co-Owner plane, entwickle und fortlaufend weiterentwickle.
 
 ## ✉️ Kontakt
 
