@@ -1,5 +1,5 @@
 <p>
-  <img src="assets/cover.svg" alt="28niels – Software Developer" width="100%">
+  <img src="assets/masthead.svg" alt="28niels – Full-Stack Developer" width="100%">
 </p>
 
 ## 👤 Über mich
