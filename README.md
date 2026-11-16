@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Niels – Software Development" width="100%">
+  <img src="assets/banner.svg" alt="28niels – Software Development" width="100%">
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## Profil
 
-Ich entwickle Software mit dem Anspruch, Probleme sauber zu strukturieren und nachvollziehbar zu lösen. Mein Schwerpunkt liegt auf Web-Entwicklung und Automatisierung – von der Idee über die Umsetzung bis zur kontinuierlichen Verbesserung.
+Ich bin **28niels** und entwickle Software mit dem Anspruch, Probleme sauber zu strukturieren und nachvollziehbar zu lösen. Mein Schwerpunkt liegt auf Web-Entwicklung und Automatisierung – von der Idee über die Umsetzung bis zur kontinuierlichen Verbesserung. Aktuell arbeite ich an eigenen Produkten wie [csbuddy.app](https://csbuddy.app).
 
 ## Technologien
 
@@ -22,8 +22,8 @@ Ich entwickle Software mit dem Anspruch, Probleme sauber zu strukturieren und na
     <td><b>Sprachen</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,js,ts&theme=dark">
-        <img src="https://skillicons.dev/icons?i=py,js,ts&theme=light" alt="Python, JavaScript, TypeScript" height="44">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,lua,js,ts&theme=dark">
+        <img src="https://skillicons.dev/icons?i=py,lua,js,ts&theme=light" alt="Python, Lua, JavaScript, TypeScript" height="44">
       </picture>
     </td>
   </tr>
@@ -31,8 +31,8 @@ Ich entwickle Software mit dem Anspruch, Probleme sauber zu strukturieren und na
     <td><b>Web</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css&theme=dark">
-        <img src="https://skillicons.dev/icons?i=html,css&theme=light" alt="HTML, CSS" height="44">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,html,css&theme=dark">
+        <img src="https://skillicons.dev/icons?i=nextjs,react,html,css&theme=light" alt="Next.js, React, HTML, CSS" height="44">
       </picture>
     </td>
   </tr>
@@ -51,18 +51,23 @@ Ich entwickle Software mit dem Anspruch, Probleme sauber zu strukturieren und na
 
 | | |
 | :-- | :-- |
-| **Entwicklung** | Web-Anwendungen und Werkzeuge mit Python und TypeScript |
+| **Entwicklung** | Web-Anwendungen mit Next.js und TypeScript sowie Werkzeuge mit Python und Lua |
 | **Automatisierung** | Wiederkehrende Abläufe durch gezielte Skripte vereinfachen |
 | **Code-Qualität** | Lesbarkeit, Struktur und Versionierung mit Git |
 | **Weiterentwicklung** | Vertiefung in Rust, Systemdesign und künstlicher Intelligenz |
 
 ## Projekte
 
-Ausgewählte Arbeiten sind in den angepinnten Repositories zu finden. Neue Projekte werden laufend ergänzt.
+| Projekt | Beschreibung |
+| :-- | :-- |
+| [**csbuddy.app**](https://csbuddy.app) | Aktuelles Webprojekt in aktiver Entwicklung |
+
+Weitere Arbeiten sind in den angepinnten Repositories zu finden. Neue Projekte werden laufend ergänzt.
 
 ## Kontakt
 
 <p>
   <a href="https://github.com/28niels"><img src="https://img.shields.io/badge/GitHub-28niels-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://csbuddy.app"><img src="https://img.shields.io/badge/Projekt-csbuddy.app-2563eb?style=flat-square" alt="csbuddy.app"></a>
   <a href="https://github.com/28niels/28niels/issues"><img src="https://img.shields.io/badge/Anfrage-per_Issue-2563eb?style=flat-square&logo=github&logoColor=white" alt="Issue"></a>
 </p>
