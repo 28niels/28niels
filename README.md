@@ -1,51 +1,35 @@
 <div align="center">
 
-# Hi, ich bin Niels 👋
-
-**Software Developer · Builder · Lifelong Learner**
-
-[![Profile Views](https://komarev.com/ghpvc/?username=DEIN-USERNAME&style=flat-square&color=0a0a0a&label=Profile+Views)](https://github.com/DEIN-USERNAME)
-[![Followers](https://img.shields.io/github/followers/DEIN-USERNAME?style=flat-square&color=0a0a0a&label=Followers)](https://github.com/DEIN-USERNAME?tab=followers)
+<img src="assets/banner.svg" alt="28niels" width="100%">
 
 </div>
 
----
+```console
+niels@github:~$ cat about.json
+{
+  "name":     "Niels",
+  "handle":   "28niels",
+  "builds":   ["web apps", "automation", "small sharp tools"],
+  "stack":    ["TypeScript", "Python", "React", "Node.js", "Docker"],
+  "learning": ["Rust", "system design", "AI"],
+  "ask_me":   "web dev, open source, automation"
+}
+```
 
-## 🧭 Über mich
+<details>
+<summary><b>$ ls ~/projects</b></summary>
 
-- 🔭 Ich arbeite aktuell an: **dein aktuelles Projekt**
-- 🌱 Ich lerne gerade: **Rust, Systemdesign, KI**
-- 💬 Frag mich gerne zu: **Web-Entwicklung, Open Source, Automatisierung**
-- ⚡ Fun Fact: **etwas Persönliches hier einfügen**
+<br>
 
-## 🛠️ Tech Stack
+Noch leer – hier landen bald meine Pins. 🚧
 
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=3776AB)
-![React](https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
-![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=F05032)
-
-</div>
-
-## 📊 GitHub Stats
+</details>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DEIN-USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=888888&text_color=888888&icon_color=888888" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN-USERNAME&layout=compact&hide_border=true&theme=transparent&title_color=888888&text_color=888888" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=28niels&show_icons=true&hide_border=true&theme=transparent&title_color=3fb950&text_color=8b949e&icon_color=3fb950" alt="GitHub stats">
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=28niels&layout=compact&hide_border=true&theme=transparent&title_color=3fb950&text_color=8b949e" alt="Top languages">
 
-</div>
-
-## 📫 Kontakt
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=flat-square&logo=github&logoColor=white)](https://github.com/DEIN-USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/DEIN-PROFIL)
-[![Website](https://img.shields.io/badge/Website-0a0a0a?style=flat-square&logo=safari&logoColor=white)](https://deine-website.de)
+<sub>`exit 0` · danke fürs Vorbeischauen</sub>
 
 </div>
