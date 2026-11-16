@@ -4,11 +4,11 @@
 
 ## Über mich
 
-Ich entwickle Webanwendungen und kleine Automatisierungen. Ich bin noch im Lernprozess und lerne am liebsten an echten Projekten, weil sich dort schnell zeigt, was ich wirklich verstanden habe. Mir ist wichtig, dass mein Code gut lesbar bleibt und sich später ohne großen Aufwand ändern lässt.
+Ich baue Webseiten und Tools, meistens mit Next.js, Python und Lua. Ich lerne noch viel dazu, deshalb arbeite ich gern an echten Projekten statt nur an Übungen. Hier auf GitHub landet, woran ich gerade sitze.
 
-## Arbeitsweise
+## Wie ich arbeite
 
-Ich nutze KI-Tools als Unterstützung, zum Beispiel zum Nachschlagen oder um Ansätze auszuprobieren. Code übernehme ich nicht ungeprüft: Ich lese ihn, teste ihn und entscheide selbst, was ins Projekt kommt.
+Ich nutze auch KI-Tools, zum Beispiel zum Nachschlagen. Was ich daraus übernehme, lese und teste ich vorher.
 
 ## Projekte
 
@@ -18,4 +18,4 @@ Ich nutze KI-Tools als Unterstützung, zum Beispiel zum Nachschlagen oder um Ans
 
 ## Kontakt
 
-[GitHub](https://github.com/28niels) · [csbuddy.app](https://csbuddy.app)
+[GitHub](https://github.com/28niels)
