@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-label="28niels – Software Developer">
+  <defs><clipPath id="c"><rect width="1000" height="280" rx="12"/></clipPath>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
+    .f { animation: f .9s ease-out backwards; }
+    @keyframes f { from { opacity: 0 } }
+  </style></defs>
+  <g clip-path="url(#c)">
+    <rect width="1000" height="280" fill="#0c0c0d"/>
+    <g class="f">
+      <text x="56" y="62" font-size="15" fill="#8a8a8e">Software Developer</text>
+      <text x="944" y="62" font-size="15" fill="#8a8a8e" text-anchor="end">Web &amp; Automatisierung</text>
+      <rect x="56" y="84" width="888" height="1" fill="#ffffff" fill-opacity="0.12"/>
+    </g>
+    <g class="f" style="animation-delay:.2s">
+      <text x="50" y="228" font-size="132" font-weight="700" letter-spacing="-6" fill="#f4f3ef">28niels</text>
+    </g>
+  </g>
+  <rect x=".5" y=".5" width="999" height="279" rx="11.5" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+</svg>
