@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="assets/banner-28niels.svg" alt="28niels – Software Developer" width="100%">
+  <img src="assets/banner.svg" alt="28niels – Software Developer" width="100%">
 </p>
 
 ## 👤 Über mich
 
-Software-Entwickler mit Schwerpunkt auf Web-Anwendungen und Automatisierung. Ich befinde mich in einer kontinuierlichen Lernphase und setze mein Wissen gezielt in eigenen Projekten um – mit Fokus auf nachvollziehbaren Code, klare Strukturen und saubere Versionierung.
+Software-Entwickler mit Schwerpunkt auf Web-Anwendungen und Automatisierung. Ich befinde mich in einer kontinuierlichen Lernphase und setze mein Wissen gezielt in Projekten um – mit Fokus auf nachvollziehbaren Code, klare Strukturen und saubere Versionierung.
 
 ## 🤖 Arbeitsweise
 
