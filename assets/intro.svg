@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" role="img" aria-label="28niels – Software Developer">
+  <style>
+    :root { --fg:#1f2328; --mu:#59636e; --ln:#d1d9e0; }
+    @media (prefers-color-scheme: dark) { :root { --fg:#f0f6fc; --mu:#9198a1; --ln:#3d444d; } }
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
+    .n { fill: var(--fg); } .m { fill: var(--mu); }
+  </style>
+  <text class="n" x="0" y="74" font-size="60" font-weight="700" letter-spacing="-2">28niels</text>
+  <text class="m" x="2" y="112" font-size="19">Software Developer – Web &amp; Automatisierung</text>
+  <rect x="0" y="142" width="1000" height="1" style="fill:var(--ln)"/>
+</svg>

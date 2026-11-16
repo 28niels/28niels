@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="assets/banner.svg" alt="28niels – Software Developer" width="100%">
+<p>
+  <img src="assets/intro.svg" alt="28niels – Software Developer" width="100%">
 </p>
 
 ## 👤 Über mich
