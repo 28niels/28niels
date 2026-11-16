@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-header.svg" alt="28niels – Software Developer" width="100%">
+  <img src="assets/hero.svg" alt="28niels – Software Developer" width="100%">
 </p>
 
 Software-Entwickler mit Schwerpunkt auf Web-Anwendungen und Automatisierung. Ich befinde mich in einer kontinuierlichen Lernphase und setze mein Wissen gezielt in eigenen Projekten um. Dabei lege ich Wert auf nachvollziehbaren Code, klare Strukturen und saubere Versionierung. Jedes Projekt dient mir als Gelegenheit, fachlich zu wachsen und meine Arbeitsweise weiter zu professionalisieren.

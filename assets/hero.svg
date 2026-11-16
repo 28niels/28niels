@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" role="img" aria-label="28niels – Software Developer">
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
+    .f { animation: f .8s ease-out backwards; }
+    .f2 { animation-delay: .2s }
+    @keyframes f { from { opacity: 0 } }
+  </style>
+  <rect width="1000" height="200" rx="12" fill="#0d1117"/>
+  <rect x=".5" y=".5" width="999" height="199" rx="11.5" fill="none" stroke="#ffffff" stroke-opacity=".1"/>
+  <g class="f">
+    <text x="56" y="108" font-size="64" font-weight="700" letter-spacing="-2" fill="#f0f6fc">28niels</text>
+  </g>
+  <g class="f f2">
+    <text x="58" y="146" font-size="18" fill="#8b949e">Software Developer  ·  Web &amp; Automatisierung</text>
+    <text x="58" y="172" font-size="14" fill="#6e7681">Deutschland  ·  Aktuell: csbuddy.app</text>
+  </g>
+</svg>
