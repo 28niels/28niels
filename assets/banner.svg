@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="Niels – Software Development">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="0.55" stop-color="#101a3a"/>
+      <stop offset="1" stop-color="#1b2a6b"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#8fb3ff"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0.1" r="0.7">
+      <stop offset="0" stop-color="#4f7cff" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#4f7cff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#ffffff" fill-opacity="0.07"/>
+    </pattern>
+    <style>
+      text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+      .pulse { animation: pulse 5s ease-in-out infinite; }
+      .rise { opacity: 0; animation: rise .9s ease-out forwards; }
+      .r2 { animation-delay: .25s; } .r3 { animation-delay: .5s; }
+      @keyframes pulse { 0%,100% { opacity: .75 } 50% { opacity: 1 } }
+      @keyframes rise { from { opacity: 0; transform: translateY(10px) } to { opacity: 1; transform: none } }
+    </style>
+  </defs>
+  <rect width="1000" height="260" rx="18" fill="url(#bg)"/>
+  <rect width="1000" height="260" rx="18" fill="url(#dots)"/>
+  <rect class="pulse" width="1000" height="260" rx="18" fill="url(#glow)"/>
+  <rect x="70" y="62" width="44" height="4" rx="2" fill="#4f7cff"/>
+  <text class="rise" x="70" y="140" font-size="68" font-weight="700" fill="url(#txt)" letter-spacing="-1.5">Niels</text>
+  <text class="rise r2" x="72" y="180" font-size="22" font-weight="500" fill="#c6d4ff">Software Development  ·  Automatisierung  ·  Web</text>
+  <text class="rise r3" x="72" y="214" font-size="15" fill="#8a9bd1" letter-spacing="1.2">SAUBERER CODE  ·  KLARE LÖSUNGEN  ·  KONTINUIERLICHE WEITERENTWICKLUNG</text>
+</svg>
