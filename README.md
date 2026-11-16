@@ -2,7 +2,7 @@
   <img src="assets/profile-header.svg" alt="28niels – Software Developer" width="100%">
 </p>
 
-Software-Entwickler mit Schwerpunkt auf Web-Anwendungen und Automatisierung. Ich entwickle eigene Produkte von der ersten Idee bis zum Livegang – mit nachvollziehbarem Code, klarer Struktur und sauberer Versionierung.
+Software-Entwickler mit Schwerpunkt auf Web-Anwendungen und Automatisierung. Ich befinde mich in einer kontinuierlichen Lernphase und setze mein Wissen gezielt in eigenen Projekten um. Dabei lege ich Wert auf nachvollziehbaren Code, klare Strukturen und saubere Versionierung. Jedes Projekt dient mir als Gelegenheit, fachlich zu wachsen und meine Arbeitsweise weiter zu professionalisieren.
 
 &nbsp;
 
@@ -17,13 +17,15 @@ Software-Entwickler mit Schwerpunkt auf Web-Anwendungen und Automatisierung. Ich
 
 ### Projekte
 
-**[csbuddy.app](https://csbuddy.app)** – Eigenes Webprojekt in aktiver Entwicklung
+**[csbuddy.app](https://csbuddy.app)** – Eigenes Webprojekt, das ich eigenverantwortlich plane, entwickle und fortlaufend weiterentwickle.
 
 &nbsp;
 
-### Aktuell
+### Aktuelle Lernschwerpunkte
 
 Systemdesign · Rust · Künstliche Intelligenz
+
+Ich vertiefe diese Themen systematisch, um die Qualität und Skalierbarkeit meiner Projekte stetig zu verbessern.
 
 &nbsp;
 
