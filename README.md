@@ -20,7 +20,7 @@ Aktuell arbeite ich an [csbuddy.app](https://csbuddy.app) und vertiefe parallel 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,lua,js,ts,nextjs,react,html,css,git,github,vscode,bash&theme=dark&perline=12">
-  <img src="https://skillicons.dev/icons?i=py,lua,js,ts,nextjs,react,html,css,git,github,vscode,bash&theme=light&perline=12" alt="Python, Lua, JavaScript, TypeScript, Next.js, React, HTML, CSS, Git, GitHub, VS Code, Bash" width="100%" style="max-width:640px">
+  <img src="https://skillicons.dev/icons?i=py,lua,js,ts,nextjs,react,html,css,git,github,vscode,bash&theme=light&perline=12" alt="Python, Lua, JavaScript, TypeScript, Next.js, React, HTML, CSS, Git, GitHub, VS Code, Bash" height="48">
 </picture>
 
 ## Schwerpunkte
