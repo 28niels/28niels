@@ -1,14 +1,12 @@
-# Hi, ich bin Niels 👋
+# Niels
 
-Ich lerne Programmieren und baue dabei kleine Projekte, um Dinge wirklich zu verstehen – nicht nur Tutorials nachzuklicken.
+**Software Development · Automatisierung · Web** · Deutschland
 
-## Woran ich gerade arbeite
+Ich entwickle Software mit Fokus auf saubere Struktur, klare Lösungen und kontinuierliche Weiterentwicklung. Hier veröffentliche ich meine Projekte und Experimente.
 
-- Grundlagen festigen und eigene kleine Projekte umsetzen
-- Meinen Code sauberer machen und regelmäßig auf GitHub veröffentlichen
-- Lernfortschritt dokumentieren
+&nbsp;
 
-## Womit ich lerne
+## Tech Stack
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,js,ts,html,css,git&theme=dark">
@@ -16,12 +14,16 @@ Ich lerne Programmieren und baue dabei kleine Projekte, um Dinge wirklich zu ver
   <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,git&theme=dark" alt="Python, JavaScript, TypeScript, HTML, CSS, Git" height="48">
 </picture>
 
-Alles davon ist für mich noch neu – ich probiere aus und lerne dazu.
+## Fokus
 
-## Als Nächstes
+- **Entwicklung** – Web-Anwendungen und Tools mit Python und TypeScript
+- **Automatisierung** – wiederkehrende Abläufe durch Skripte vereinfachen
+- **Weiterentwicklung** – Rust, Systemdesign und KI
 
-Rust · Systemdesign · KI-Grundlagen
+## Projekte
+
+Ausgewählte Arbeiten findest du in meinen angepinnten Repositories.
 
 ---
 
-<sub>Fragen oder Ideen? Öffne gern ein Issue.</sub>
+<sub>Anfragen und Ideen gerne über ein <a href="https://github.com/28niels/28niels/issues">Issue</a>.</sub>
