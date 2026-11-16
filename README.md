@@ -10,17 +10,27 @@ Software-Entwickler mit Schwerpunkt auf Web-Anwendungen und Automatisierung. Ich
 
 Sprachen und Frameworks, die ich in meinen aktuellen Projekten einsetze und weiter vertiefe:
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,nodejs,py,lua&theme=dark&perline=10">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,nodejs,py,lua&theme=light&perline=10" alt="HTML, CSS, JavaScript, TypeScript, Next.js, React, Tailwind CSS, Node.js, Python, Lua" height="48">
-</picture>
+<p>
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML">
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS">
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript">
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" height="48" alt="TypeScript">
+  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" height="48" alt="Next.js">
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React">
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" height="48" alt="Tailwind CSS">
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node.js">
+  <img src="https://skillicons.dev/icons?i=py&theme=dark" width="48" height="48" alt="Python">
+  <img src="https://skillicons.dev/icons?i=lua&theme=dark" width="48" height="48" alt="Lua">
+</p>
 
 Werkzeuge:
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,bash&theme=dark&perline=4">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,bash&theme=light&perline=4" alt="Git, GitHub, VS Code, Bash" height="48">
-</picture>
+<p>
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub">
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code">
+  <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="48" height="48" alt="Bash">
+</p>
 
 &nbsp;
 
