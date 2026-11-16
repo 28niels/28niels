@@ -23,6 +23,13 @@ Sprachen und Frameworks, die ich in meinen aktuellen Projekten einsetze und weit
   <img src="https://skillicons.dev/icons?i=lua&theme=dark" width="48" height="48" alt="Lua">
 </p>
 
+Datenbanken:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="MySQL">
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" alt="PostgreSQL">
+</p>
+
 Werkzeuge:
 
 <p>
