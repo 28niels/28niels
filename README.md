@@ -1,25 +1,26 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="28niels – Software Development" width="100%">
+  <img src="assets/banner.svg" alt="28niels – Software Developer" width="100%">
 </p>
 
 <p align="center">
+  <a href="https://csbuddy.app"><img src="https://img.shields.io/badge/Aktuelles_Projekt-csbuddy.app-2563eb?style=flat-square&labelColor=111827" alt="csbuddy.app"></a>
   <img src="https://img.shields.io/badge/Standort-Deutschland-1f2937?style=flat-square&labelColor=111827" alt="Deutschland">
-  <img src="https://img.shields.io/badge/Fokus-Software_Development-2563eb?style=flat-square&labelColor=111827" alt="Fokus">
-  <img src="https://img.shields.io/badge/Status-Open_for_Collaboration-16a34a?style=flat-square&labelColor=111827" alt="Status">
-  <img src="https://komarev.com/ghpvc/?username=28niels&style=flat-square&label=Profilaufrufe&labelColor=111827&color=1f2937" alt="Profilaufrufe">
+  <img src="https://img.shields.io/badge/Sprachen-Deutsch_·_Englisch-1f2937?style=flat-square&labelColor=111827" alt="Sprachen">
 </p>
 
 <br>
 
-## Profil
+## Über mich
 
-Ich bin **28niels** und entwickle Software mit dem Anspruch, Probleme sauber zu strukturieren und nachvollziehbar zu lösen. Mein Schwerpunkt liegt auf Web-Entwicklung und Automatisierung – von der Idee über die Umsetzung bis zur kontinuierlichen Verbesserung. Aktuell arbeite ich an eigenen Produkten wie [csbuddy.app](https://csbuddy.app).
+Ich bin Software-Entwickler mit Schwerpunkt auf Web-Anwendungen und Automatisierung. Ich entwickle eigene Produkte von der ersten Idee bis zum Livegang und lege dabei Wert auf nachvollziehbaren Code, klare Strukturen und eine saubere Versionierung.
+
+Aktuell arbeite ich an [csbuddy.app](https://csbuddy.app) und vertiefe parallel mein Wissen in Systemdesign, Rust und KI.
 
 ## Technologien
 
 <table>
   <tr>
-    <td><b>Sprachen</b></td>
+    <td width="130"><b>Sprachen</b></td>
     <td>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,lua,js,ts&theme=dark">
@@ -37,7 +38,7 @@ Ich bin **28niels** und entwickle Software mit dem Anspruch, Probleme sauber zu 
     </td>
   </tr>
   <tr>
-    <td><b>Tooling</b></td>
+    <td><b>Werkzeuge</b></td>
     <td>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,bash&theme=dark">
@@ -51,23 +52,26 @@ Ich bin **28niels** und entwickle Software mit dem Anspruch, Probleme sauber zu 
 
 | | |
 | :-- | :-- |
-| **Entwicklung** | Web-Anwendungen mit Next.js und TypeScript sowie Werkzeuge mit Python und Lua |
-| **Automatisierung** | Wiederkehrende Abläufe durch gezielte Skripte vereinfachen |
-| **Code-Qualität** | Lesbarkeit, Struktur und Versionierung mit Git |
-| **Weiterentwicklung** | Vertiefung in Rust, Systemdesign und künstlicher Intelligenz |
+| **Web-Entwicklung** | Moderne Web-Anwendungen mit Next.js, React und TypeScript |
+| **Automatisierung** | Skripte und Werkzeuge mit Python und Lua, die wiederkehrende Abläufe vereinfachen |
+| **Produktentwicklung** | Eigenverantwortliche Umsetzung von der Idee bis zum Livegang |
+| **Qualität** | Lesbarer Code, klare Struktur und nachvollziehbare Commits mit Git |
 
 ## Projekte
 
 | Projekt | Beschreibung |
 | :-- | :-- |
-| [**csbuddy.app**](https://csbuddy.app) | Aktuelles Webprojekt in aktiver Entwicklung |
+| [**csbuddy.app**](https://csbuddy.app) | Eigenes Webprojekt in aktiver Entwicklung |
 
-Weitere Arbeiten sind in den angepinnten Repositories zu finden. Neue Projekte werden laufend ergänzt.
+Weitere Repositories finden sich in den angepinnten Projekten oberhalb.
+
+## Weiterentwicklung
+
+Systemdesign · Rust · Künstliche Intelligenz
 
 ## Kontakt
 
 <p>
   <a href="https://github.com/28niels"><img src="https://img.shields.io/badge/GitHub-28niels-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://csbuddy.app"><img src="https://img.shields.io/badge/Projekt-csbuddy.app-2563eb?style=flat-square" alt="csbuddy.app"></a>
-  <a href="https://github.com/28niels/28niels/issues"><img src="https://img.shields.io/badge/Anfrage-per_Issue-2563eb?style=flat-square&logo=github&logoColor=white" alt="Issue"></a>
+  <a href="https://csbuddy.app"><img src="https://img.shields.io/badge/Web-csbuddy.app-2563eb?style=flat-square" alt="csbuddy.app"></a>
 </p>
