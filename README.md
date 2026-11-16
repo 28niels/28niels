@@ -8,9 +8,18 @@ Software-Entwickler mit Schwerpunkt auf Web-Anwendungen und Automatisierung. Ich
 
 ### Technologien
 
+Sprachen und Frameworks, die ich in meinen aktuellen Projekten einsetze und weiter vertiefe:
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,lua,js,ts,nextjs,react,html,css,git,github,vscode,bash&theme=dark&perline=12">
-  <img src="https://skillicons.dev/icons?i=py,lua,js,ts,nextjs,react,html,css,git,github,vscode,bash&theme=light&perline=12" alt="Python, Lua, JavaScript, TypeScript, Next.js, React, HTML, CSS, Git, GitHub, VS Code, Bash" height="48">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,nodejs,py,lua&theme=dark&perline=10">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,nodejs,py,lua&theme=light&perline=10" alt="HTML, CSS, JavaScript, TypeScript, Next.js, React, Tailwind CSS, Node.js, Python, Lua" height="48">
+</picture>
+
+Werkzeuge:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,bash&theme=dark&perline=4">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,bash&theme=light&perline=4" alt="Git, GitHub, VS Code, Bash" height="48">
 </picture>
 
 &nbsp;
