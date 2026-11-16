@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" alt="28niels – Software Developer" width="100%">
+  <img src="assets/banner-28niels.svg" alt="28niels – Software Developer" width="100%">
 </p>
 
 ## 👤 Über mich
@@ -13,7 +13,7 @@ Ich setze moderne KI-Werkzeuge gezielt als Unterstützung in Entwicklung und Ler
 ## 🚀 Projekte
 
 **[csbuddy.app](https://csbuddy.app)**
-Eigenes Webprojekt, das ich eigenverantwortlich plane, entwickle und fortlaufend weiterentwickle.
+Gemeinsames Webprojekt, das ich zusammen mit einem Kollegen als Co-Owner plane, entwickle und fortlaufend weiterentwickle.
 
 ## ✉️ Kontakt
 
